@@ -13,9 +13,4 @@ steps:
   - echo Wake up now
   - sleep 5
   - echo Done
-  
-trigger:
-  event:
-  - cron
-  cron:
-  - 0 * * * *
+
