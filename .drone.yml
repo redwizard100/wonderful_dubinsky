@@ -18,4 +18,4 @@ trigger:
   event:
   - cron
   cron:
-  - * * * * *
+  - 58 * * * *
